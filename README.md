@@ -25,43 +25,48 @@
 # 1. GENERAL INFORMATION
 
 ## 1.1 Title of Dataset
-Insert title here
+Urban Stream Restoration Dataset of Teplica in Senica, Slovakia
 
 ## 1.2 Dataset description
-This dataset contains qualitative and/or quantitative data on ... Context for the research project... Additional details about the project can be accessed [here](https://...).
+This dataset contains quantitative data on normalization of 5 different MCDA aspects based on spatial geometry alongside stream Teplica, to answer the question where should be prioritized for stream restoration. Additional details about the project can be accessed [here](https://github.com/sdgis-edu-tud/report-asa2025-groupc).
 
 ## 1.3 Author Information
 A. Principal Investigator  
-- Name: 
-- Institution: 
+- Name: Viola Ebermannová
+- Institution: Technology University of Delft
 - Address: 
 - Email: 
 
 B. Associate or Co-investigator
-- Name: 
-- Institution: 
+- Name: Hongyue Kang
+- Institution: Technology University of Delft
+- Address: Zusterlaan 264b, Delft
+- Email: hongyuekang@tudelft.nl
+
+C. Associate or Co-investigator
+- Name: Kelly Schoonderwoerd
+- Institution: Technology University of Delft
+- Address: 
+- Email: 
+
+D. Associate or Co-investigator
+- Name: Jiaoyang Wu
+- Institution: Technology University of Delft
 - Address: 
 - Email:
 
-C. Associated study personnel 
-- ...
-- ...
-
 ## 1.4 Dates of data collection
-- Survey 1: YYYY-MM-DD
+- NDVI: 2025-05-12
 - Survey 2: YYYY-MM-DD
 
 ## 1.5 Geographic location of data collection
-...
+Senica, Slovakia
 
 ## 1.6 Keywords
-..., ..., ...
+NDVI, soil, ...
 
 ## 1.7 Language
-...
-
-## 1.8 Information about funding sources that supported the collection of the data
-This research project was funded by...
+English
 
 # 2. METHODOLOGICAL INFORMATION
 ## 2.1 Research questions, methods and envisioned uses
