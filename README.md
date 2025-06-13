@@ -28,7 +28,7 @@
 Urban Stream Restoration Dataset of Teplica in Senica, Slovakia
 
 ## 1.2 Dataset description
-This dataset contains quantitative data on normalization of 5 different MCDA aspects based on spatial geometry alongside stream Teplica, to answer the question where should be prioritized for stream restoration. Additional details about the project can be accessed [here](https://github.com/sdgis-edu-tud/report-asa2025-groupc).
+This dataset contains quantitative data on normalization of 8 different MCDA aspects based on spatial geometry alongside stream Teplica, to answer the question where should be prioritized for stream restoration. Additional details about the project can be accessed [here](https://github.com/sdgis-edu-tud/report-asa2025-groupc).
 
 ## 1.3 Author Information
 A. Principal Investigator  
@@ -63,7 +63,7 @@ D. Associate or Co-investigator
 Senica, Slovakia
 
 ## 1.6 Keywords
-NDVI, soil, ...
+Sustainable stream restoration, regional ecological stability system, soil, NDVI, land surface temperature, ...
 
 ## 1.7 Language
 English
