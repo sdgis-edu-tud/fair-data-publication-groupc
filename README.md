@@ -70,7 +70,7 @@ English
 
 # 2. METHODOLOGICAL INFORMATION
 ## 2.1 Research questions, methods and envisioned uses
-Insert brief overarching summary of methods...
+The research combines a lot of quantitative GIS-based spatial analysis with qualitative typological classification of street interfaces using Google Street View. This mixed-methods approach enables both a broad spatial overview and a detailed understanding of urban space alongside the Teplica in Senica.
 
 ### 2.1.1 Research question 1: How to improve local and supra local biodiversity resilience by interventions within the stream flood plain?
 - Instrument 1 (quan): GIS-based spatial analysis 
@@ -83,15 +83,19 @@ Insert brief overarching summary of methods...
 - Instrument 1 (quan)：GIS-based spatial analysis 
 
 ### 2.1.4 Envisioned uses of the dataset
-- ...
-- ...
+- The dataset supports the prioritization of spatial units along the Teplica River in terms of their urgency for improvement in biodiversity, quality of life, and climate adaptation, thereby providing guidance for future spatial interventions.
 
 ## 2.2 Methods for processing the data
-- ...
+- NDVI: Sentinel-2 satellite imagery was accessed via Google Earth Engine (GEE), covering the study area during the growing season to ensure accurate vegetation representation.
+The Normalized Difference Vegetation Index (NDVI) was calculated within GEE using the standard formula:
+NDVI=(B8-B4)/(B8+B4)
+where B8 represents the near-infrared (NIR) band and B4 represents the red band.
+3. The resulting NDVI raster was exported from GEE as a GeoTIFF file and imported into QGIS.
+4. In QGIS, the NDVI layer was reprojected (if necessary), clipped to the study boundary, and further analyzed using raster statistics and classification to evaluate vegetation cover across different spatial units along the Teplica River.
 - ...
 
 ## 2.3 Instrument- or software-specific information
-- Software version X.X was used for ...
+- QGIS version 3.34 was used for most of the spatial analysis within the project. 
 
 # 3. FILE OVERVIEW
 Are there multiple versions of the dataset? Yes/No
@@ -110,11 +114,12 @@ Are there multiple versions of the dataset? Yes/No
 ### 3.1.4 Data category D
 - "filename.extension": brief description of file
 
-## 3.2 Relationship between files:
-The following tables (csv files) employ a foreign key to refer to the primary key (unique identifier) in one or more other table(s):
+## 3.2 Relationship between files:??????????????????????????
+(The following tables (csv files) employ a foreign key to refer to the primary key (unique identifier) in one or more other table(s):
 
 "filename.extension"
-- abc used as foreign key to "otherfile.extension"
+- abc used as foreign key to "otherfile.extension")----this part I can not understand
+- These GeoPackage files represent different thematic datasets for the same spatial units. Although they share identical spatial boundaries, their attribute tables contain unrelated fields. There is no direct key-based linkage between the datasets; their relationship is spatial rather than relational.
 
 ## 3.3 File formats and naming conventions
 ### 3.3.1 File formats
