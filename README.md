@@ -72,15 +72,17 @@ English
 ## 2.1 Research questions, methods and envisioned uses
 Insert brief overarching summary of methods...
 
-### 2.1.1 Research question 1: ...?
-- Instrument 1 (quan/qual)
-- Instrument 2 (quan/qual)
+### 2.1.1 Research question 1: How to improve local and supra local biodiversity resilience by interventions within the stream flood plain?
+- Instrument 1 (quan): GIS-based spatial analysis 
+- Instrument 2 (qual)：Typological analysis based on Google Street View 
 
-### 2.1.2 Research question 2: ...?
-- Instrument 1 (quan/qual)
-- Instrument 2 (quan/qual)
+### 2.1.2 Research question 2: How to use areas in the flood plain to capture water in the landscape?
+- Instrument 1 (quan)：GIS-based spatial analysis 
 
-### 2.1.3 Envisioned uses of the dataset
+### 2.1.3 Research question 3: What types of places should be created in the stream flood plain?
+- Instrument 1 (quan)：GIS-based spatial analysis 
+
+### 2.1.4 Envisioned uses of the dataset
 - ...
 - ...
 
