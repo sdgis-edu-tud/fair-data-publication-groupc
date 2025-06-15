@@ -103,7 +103,14 @@ Are there multiple versions of the dataset? No
 ## 3.1 File List
 
 ### 3.1.1 Data category A
-- "aggregated_clean.gpkg": This file contains normalization results of 8 aspects as follow:- connectivity to ÜSES (spatial system of ecological stability) [B1uses], high impact potential and feasibility [B2pot], state of vegetation [B3ndvi],  need for cooling of microclimate [CA1templ], potential for water retention [CA2soil], potential for community functions [QL1acl], potential for central functions [QL2acg], need for green space [QL3gr]
+"aggregated_clean.gpkg": This file contains normalization results of 8 aspects as follow:
+- connectivity to ÜSES (spatial system of ecological stability) [B1uses]
+- high impact potential and feasibility [B2pot], state of vegetation [B3ndvi]
+- need for cooling of microclimate [CA1templ]
+- potential for water retention [CA2soil]
+- potential for community functions [QL1acl]
+- potential for central functions [QL2acg]
+- need for green space [QL3gr]
 
 ## 3.2 Relationship between files:??????????????????????????
 (The following tables (csv files) employ a foreign key to refer to the primary key (unique identifier) in one or more other table(s):
