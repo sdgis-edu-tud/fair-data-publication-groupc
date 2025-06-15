@@ -28,7 +28,7 @@
 Urban Stream Restoration Dataset of Teplica in Senica, Slovakia
 
 ## 1.2 Dataset description
-This dataset contains quantitative data on normalization of 8 different MCDA aspects based on spatial geometry alongside stream Teplica, to answer the question where should be prioritized for stream restoration. Additional details about the project can be accessed [here](https://github.com/sdgis-edu-tud/report-asa2025-groupc).
+This dataset contains quantitative data on normalization of 8 different MCDA aspects based on spatial geometry alongside stream Teplica, to show the suitability of areas to be prioritised in sustainable stream restoration efforts based on biodiversity, climate adaptation, and quality of life. Additional details about the project can be accessed [here](https://github.com/sdgis-edu-tud/report-asa2025-groupc).
 
 ## 1.3 Author Information
 A. Principal Investigator  
@@ -112,11 +112,8 @@ Are there multiple versions of the dataset? No
 - potential for central functions [QL2acg]
 - need for green space [QL3gr]
 
-## 3.2 Relationship between files:??????????????????????????
-(The following tables (csv files) employ a foreign key to refer to the primary key (unique identifier) in one or more other table(s):
-
-"filename.extension"
-- abc used as foreign key to "otherfile.extension")----this part I can not understand
+## 3.2 Relationship between files
+- all 8 aspects are within the same .gpkg files, sharing the same id already.
 
 ## 3.3 File formats and naming conventions
 ### 3.3.1 File formats
