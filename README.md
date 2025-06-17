@@ -91,7 +91,7 @@ The Normalized Difference Vegetation Index (NDVI) was calculated within GEE usin
 NDVI=(B8-B4)/(B8+B4)
 where B8 represents the near-infrared (NIR) band and B4 represents the red band.
 3. The resulting NDVI raster was exported from GEE as a GeoTIFF file and imported into QGIS.
-4. In QGIS, the NDVI layer was reprojected (if necessary), clipped to the study boundary, and further analyzed using raster statistics and classification to evaluate vegetation cover across different spatial units along the Teplica River.
+4. In QGIS, the NDVI layer was reprojected, clipped to the study boundary, and further analyzed using raster statistics and classification to evaluate vegetation cover across different spatial units along the Teplica River.
 - ...
 
 ## 2.3 Instrument- or software-specific information
