@@ -12,10 +12,7 @@
   - [3.2 Relationship between files](#32-relationship-between-files)
   - [3.3 File formats and naming conventions](#33-file-formats-and-naming-conventions)
 - [4. DATA-SPECIFIC INFORMATION](#4-data-specific-information)
-  - [4.1 Data Category A](#41-data-category-a)
-  - [4.2 Data Category B](#42-data-category-b)
-  - [4.3 Data Category C](#43-data-category-c)
-  - [4.4 Data Category D](#44-data-category-d)
+  - [4.1 Data](#41-data)
 - [5. SHARING/ACCESS INFORMATION](#5-sharingaccess-information)
   - [5.1 Licenses/restrictions placed on the data](#51-licensesrestrictions-placed-on-the-data)
   - [5.2 Links to other resources](#52-links-to-other-resources)
@@ -122,7 +119,7 @@ The attributes are named by codes corresponding to the workflow described in the
 - Missing data code: NA, NULL
 - Not Applicable: N/A
 
-## 4.1 Data Category A
+## 4.1 Data
 
 ### 4.1.1 aggregated_clean.gpkg
 1. Number of variables: 11
