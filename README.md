@@ -207,7 +207,7 @@ N/A(I don't think we need to write sth here)
 
 "variable_CA1temp"
 - Full name: Climate Adaption temperature corrected
-- Description: Land surface temperature within spatial geometry
+- Description: Land surface temperature within spatial geometry, calculated with data from Sentinel-2, LANDSAT, and DEM and computed with a [Google Earth Engine script](https://code.earthengine.google.com/ac986028b56a794aefd3ea54e9cb09ba) made by [Ramadhan](https://www.youtube.com/watch?v=3LOMNzBHmjs) on YouTube (2024).
 - Type of variable: Decimal Number
 - Unit of measurement: N/A
 - Number of missing values: 95
