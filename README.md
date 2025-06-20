@@ -34,8 +34,8 @@ This dataset contains quantitative data on normalization of 8 different MCDA asp
 A. Principal Investigator  
 - Name: Viola Ebermannová
 - Institution: Technology University of Delft
-- Address: 
-- Email: 
+- Address: Netherlands
+- Email: v.ebermannova@gmail.com
 
 B. Associate or Co-investigator
 - Name: Hongyue Kang
@@ -46,8 +46,8 @@ B. Associate or Co-investigator
 C. Associate or Co-investigator
 - Name: Kelly Schoonderwoerd
 - Institution: Technology University of Delft
-- Address: 
-- Email: 
+- Address: Delft, Netherlands
+- Email: K.R.Schoonderwoerd@student.tudelft.nl
 
 D. Associate or Co-investigator
 - Name: Jiaoyang Wu
