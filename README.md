@@ -231,7 +231,7 @@ N/A
 - Atlas of Slovakia (used for soil characteristics) <https://www.enviroportal.sk/atlas-krajiny-sr>
 
 ### 5.2.4 Links to publicly accessible scripts for analysis of the dataset:
-- Land Surface temperature accesed via [Ramadhan](https://www.youtube.com/watch?v=3LOMNzBHmjs) at <https://code.earthengine.google.com/ac986028b56a794aefd3ea54e9cb09ba>
+- Land Surface temperature accessed via [Ramadhan](https://www.youtube.com/watch?v=3LOMNzBHmjs) at <https://code.earthengine.google.com/ac986028b56a794aefd3ea54e9cb09ba>
 
 ### 5.2.5 Was data derived from another source?
 Yes
