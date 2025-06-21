@@ -30,19 +30,19 @@ This dataset contains quantitative data on normalization of 8 different MCDA asp
 ## 1.3 Author Information
 A. Principal Investigator  
 - Name: Viola Ebermannová
-- Institution: Technology University of Delft
+- Institution: Delft University of Technology
 - Address: Netherlands, Prague - Czechia
 - Email: v.ebermannova@student.tudelft.nl
 
 B. Associate or Co-investigator
 - Name: Hongyue Kang
-- Institution: Technology University of Delft
+- Institution: Delft University of Technology
 - Address: Zusterlaan 264b, Delft
 - Email: hongyuekang@tudelft.nl
 
 C. Associate or Co-investigator
 - Name: Kelly Schoonderwoerd
-- Institution: Technology University of Delft
+- Institution: Delft University of Technology
 - Address: Delft, Netherlands
 - Email: K.R.Schoonderwoerd@student.tudelft.nl
 
@@ -118,9 +118,8 @@ The attributes are named by codes corresponding to the workflow described in the
 - Missing data code: NA, NULL
 - Not Applicable: N/A
 
-## 4.1 Data
+## 4.1 TeplicaSenica_attributes.gpkg
 
-### 4.1.1 aggregated_clean.gpkg
 1. Number of variables: 11
 
 2. Number of cases/rows: 600
@@ -142,7 +141,7 @@ The attributes are named by codes corresponding to the workflow described in the
 - Number of missing values: None
 
 "id_loc_int"
-- Full name: N/A
+- Full name: Id by location, integer
 - Description: A backup attribute with unique value for each feature.
 - Type of variable: Integer
 - Unit of measurement: N/A
