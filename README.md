@@ -93,7 +93,6 @@ Are there multiple versions of the dataset? No
 
 ## 3.1 File List
 
-### 3.1.1 Data category A
 "TeplicaSenica_attributes.gpkg": This file contains normalization results of 8 aspects as follow:
 - connectivity to ÜSES (spatial system of ecological stability) [B1uses]
 - high impact potential and feasibility [B2pot]
