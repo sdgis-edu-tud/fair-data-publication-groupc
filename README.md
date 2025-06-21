@@ -62,7 +62,7 @@ English
 
 # 2. METHODOLOGICAL INFORMATION
 ## 2.1 Research questions, methods and envisioned uses
-The research combines a lot of quantitative GIS-based spatial analysis with qualitative typological classification of land cover using Google Street View. By answering the research questiones on morphologically defined spatial units, this mixed-methods approach enables both a broad spatial overview and a detailed understanding of urban space alongside the Teplica in Senica (Slovakia).
+The research combines a lot of quantitative GIS-based spatial analysis with qualitative typological classification of land cover using Google Street View. By answering the research questions on morphologically defined spatial units, this mixed-methods approach enables both a broad spatial overview and a detailed understanding of urban space alongside the Teplica in Senica (Slovakia).
 
 ### 2.1.1 Research question 1: How to improve local and supra local biodiversity resilience by interventions within the stream flood plain?
 - Instrument 1 (quan): GIS-based spatial analysis 
