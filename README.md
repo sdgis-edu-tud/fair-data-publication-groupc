@@ -171,7 +171,7 @@ The attributes are named by codes corresponding to the workflow described in the
 
 "B1uses"
 - Full name: Biodiversity 1: Connectivity to ÚSES
-- Description: It shows the level of connectivity of sptial geometry with USES (spatial system of ecological stability defined by Slovakian law).
+- Description: It shows the level of connectivity of spatial geometry with USES (spatial system of ecological stability defined by Slovakian law).
 - Type of variable: Decimal Number
 - Unit of measurement: N/A
 - Number of missing values: None
