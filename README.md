@@ -86,7 +86,7 @@ The resulting NDVI raster was exported from GEE as a GeoTIFF file and imported i
 - For more, see the report: <https://github.com/sdgis-edu-tud/report-asa2025-groupc.git>
 
 ## 2.3 Instrument- or software-specific information
-- QGIS version 3.34 was used for most of the spatial analysis within the project. 
+- QGIS version 3.34 was used for the spatial analysis within the project. 
 
 # 3. FILE OVERVIEW
 Are there multiple versions of the dataset? No
