@@ -214,7 +214,7 @@ The attributes are named by codes corresponding to the workflow described in the
 The dataset is shared under the Creative Commons Attribution 4.0 International License (CC BY 4.0). Users are free to use, distribute, and build upon the data, provided proper credit is given to the authors.
 
 ## 5.2 Links to other resources:
-The report describing the research in more detail is available as a Github repository: <https://github.com/sdgis-edu-tud/report-asa2025-groupc.git>
+The report describing the research in more detail is available as a GitHub repository: <https://github.com/sdgis-edu-tud/report-asa2025-groupc.git>
 
 ### 5.2.1 Links to publications that cite or use the data:
 Not available yet (to be updated after publication)
