@@ -237,7 +237,7 @@ N/A
 Yes
 - NDVI data derived from Sentinel-2 satellite imagery
 - Soil data derived from secondary hydrological data of Slovakia <https://www.enviroportal.sk/atlas-krajiny-sr>
-- LST data derived from from Sentinel-2, LANDSAT, and DEM imagery
+- LST data derived from Sentinel-2, LANDSAT, and DEM imagery
 - Connectivity to ÚSES was based on Slovakian ÚSES system <https://www.sazp.sk/zivotne-prostredie/starostlivost-o-krajinu/zelena-infrastruktura/dokumenty-uses-v-sr>
 
 ## 5.3 Recommended citation for this dataset:
