@@ -136,7 +136,7 @@ The attributes are named by codes corresponding to the workflow described in the
 
 "name"
 - Full name: N/A
-- Description: Type of each spatial geometry, it's either floodplain or biocorridorriver1, which means those areas included in ÚSES biocirridor along the river Teplica.
+- Description: Type of each spatial geometry, it's either floodplain or biocorridorriver1, which means those areas included in ÚSES biocorridor along the river Teplica.
 - Type of variable: text
 - Unit of measurement: N/A
 - Number of missing values: None
