@@ -1,4 +1,4 @@
-# Urban Stream Restoration Dataset of Teplica in Senica, Slovakia
+# Data underlying the MSc research project: Urban Stream Restoration of Teplica in Senica, Slovakia
 
 ## Table of Contents
 
