@@ -1,4 +1,4 @@
-# Dataset title
+# Urban Stream Restoration Dataset of Teplica in Senica, Slovakia
 
 ## Table of Contents
 
