@@ -55,7 +55,7 @@ C. Associate or Co-investigator
 Senica, Slovakia
 
 ## 1.6 Keywords
-Sustainable stream restoration, regional ecological stability system, soil, NDVI, land surface temperature
+Sustainable stream restoration, ÚSES, regional ecological stability system, soil, NDVI, land surface temperature
 
 ## 1.7 Language
 English
